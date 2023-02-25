@@ -7,5 +7,8 @@ This crate is compilable to a python package using pyo3 and Maturin.  It feature
 ## Usage  
   
 Simply create an instance of the `Inputs` struct and call the desired method.  
-  
+
+## TO-DO
+- [ ] Get up to speed with main rust crate
+
 View the [Rust docs](https://docs.rs/blackscholes_python) and [Python docs](https://pypi.org/project/blackscholes-python/) for usage and examples.  
